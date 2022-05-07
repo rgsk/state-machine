@@ -1,0 +1,1 @@
+docker logs --follow parent-state-machine-server-local-1

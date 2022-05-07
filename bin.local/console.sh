@@ -1,0 +1,1 @@
+docker exec -it parent-state-machine-server-local-1 bash
